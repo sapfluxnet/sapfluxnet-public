@@ -6,8 +6,7 @@ author: Rafael Poyatos
 
 excerpt: How to quickly create guest blogs with a different author. 
 ---
-![CREAF logo]({{site.url}}/resources/img/CREAF_logo_Petit.png)
-![MINECO logo](/resources/img/MINECO.jpg)
+
 Sapfluxnet: a global database of sap flow measurements
 ===
 
@@ -27,3 +26,6 @@ Data contribution
 * The **data collection period is projected to begin in early 2016**. More details on the **data policy will be available then**. If at this stage you are unsure whether to contribute because you would like to know the precise terms of the data policy, please specify this in the form (i.e. 'Yes, conditioned on the data policy terms').
  
 * Do not hesitate to contact us (Rafael Poyatos, r. poyatos@creaf.uab.es) for more information 
+
+![CREAF logo]({{base.url}}/resources/img/CREAF_logo_Petit.png)
+![MINECO logo](/resources/img/MINECO.jpg)
