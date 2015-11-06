@@ -5,7 +5,7 @@ name: Sapfluxnet
 description: A global database of sap flow measurements
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Rafael Poyatos
+author: Rafael Poyatos López
 
 # Your email if you want it to be linked on the contact page
 author_email: r.poyatos@creaf.uab.es
@@ -21,7 +21,7 @@ category_dir: /
 baseurl: /sapfluxnet-public
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://yourdomain.com/
+url: http://sapfluxnet.github.io
 
 #### Under the Hood Stuff #####
 
@@ -34,7 +34,7 @@ markdown: rdiscount
 permalink: pretty
 
 # How many articles do you wish to appear on the front page:
-paginate: 5
+paginate: 6
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
