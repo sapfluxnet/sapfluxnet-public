@@ -21,7 +21,7 @@ category_dir: /
 baseurl: /sapfluxnet-public
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://sapfluxnet.github.io/sapfluxnet-public
+url: http://sapfluxnet.github.io
 
 #### Under the Hood Stuff #####
 

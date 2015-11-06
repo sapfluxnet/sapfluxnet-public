@@ -6,8 +6,8 @@ author: Rafael Poyatos
 
 excerpt: How to quickly create guest blogs with a different author. 
 ---
-![CREAF logo](/resources/img/CREAF_logo_Petit.png)
-![MINECO logo](/resources/img/MINECO.jpg)
+![CREAF logo]({{site.url}}/resources/img/CREAF_logo_Petit.png)
+![MINECO logo]({{site.url}}/resources/img/MINECO.jpg)
 Sapfluxnet: a global database of sap flow measurements
 ===
 
