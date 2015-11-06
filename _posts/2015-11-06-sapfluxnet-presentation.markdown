@@ -27,5 +27,5 @@ Data contribution
  
 * Do not hesitate to contact us (Rafael Poyatos, r. poyatos@creaf.uab.es) for more information 
 
-![CREAF logo]({{ site.baseurl }}/resources/img/CREAF_logo_Petit.png =255x118)
-![MINECO logo]({{ site.baseurl }}/resources/img/MINECO.jpg =218x96)
+![CREAF logo]({{ site.baseurl }}/resources/img/CREAF_logo_Petit.png =122x59)
+![MINECO logo]({{ site.baseurl }}/resources/img/MINECO.jpg =109x48)
