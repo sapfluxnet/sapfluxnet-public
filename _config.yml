@@ -18,7 +18,7 @@ category_dir: /
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use http://localhost:4000/path/to/blog
 #baseurl: /path/to/blog 
-baseurl: 
+baseurl: /sapfluxnet-public
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: http://yourdomain.com/
@@ -34,7 +34,7 @@ markdown: rdiscount
 permalink: pretty
 
 # How many articles do you wish to appear on the front page:
-paginate: 3
+paginate: 5
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
