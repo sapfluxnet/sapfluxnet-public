@@ -1,13 +1,18 @@
 ---
-layout: page
-title: Project description
+layout: default
+Title: Project description
 ---
 
-<section>
-    <address>
-        <p><strong>{{site.author}}</strong></p>
+<article>
+        <header>
+            <h2>{{ page.title }}</h2>
+            <span><i class="icon-clock"></i><time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span><br/>
+            <span class="category"><i class="icon-tag"></i> {{ page.categories | category_links }}</span><br/>
+            <span class="author"><i class="icon-user"></i> {% if page.author %}{{page.author}}{% else %}{{site.author}}{% endif%}</span>
+        </header>
 
-        <p><i class="icon-phone"></i> 1-555-123-1234<br/>
-        <i class="icon-mail"></i> <a href="mailto:{{site.author_email}}">{{site.author_email}}</a></p>
-    </address>
-</section>
+        <div class="entry">{{ content }}</div>
+
+        <footer><!-- additional info --></footer>
+
+</article>
