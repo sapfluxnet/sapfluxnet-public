@@ -156,3 +156,10 @@ section address {
     width: 100%;
     height: auto;
 }
+
+.panel img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+float: left;
+}
