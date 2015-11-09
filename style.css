@@ -145,3 +145,14 @@ section address {
 .more {
     margin-left: 80%;
 }
+
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
