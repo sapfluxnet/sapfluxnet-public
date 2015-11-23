@@ -15,5 +15,7 @@ Data contribution
 * We kindly ask that you **fill the form below** if you have measured **sap flow during at least one year/growing season**, and **let us know if you would be willing to contribute to SAPFLUXNET**.
 
 * The **data collection period is projected to begin in early 2016**. More details on the **data policy will be available then**. If at this stage you are unsure whether to contribute because you would like to know the precise terms of the data policy, please specify this in the form (i.e. 'Yes, conditioned on the data policy terms').
+
+* [Link to metadata form](http://sfnform.creaf.cat/app/form/)
  
 * Do not hesitate to contact us (Rafael Poyatos, r. poyatos@creaf.uab.es) for more information 
