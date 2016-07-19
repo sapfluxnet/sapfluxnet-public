@@ -1,21 +1,47 @@
-Sapfluxnet: a global database of sap flow measurements
-===
+### What is SAPFLUXNET?
 
-* SAPFLUXNET is an initiative which aims at compiling a global database of sap flow measurements in woody plants. 
+*  SAPFLUXNET is an initiative aiming at compiling a **global database of sap
+   flow measurements in plants** led by
+   [CREAF and an international team of researchers](http://sapfluxnet.creaf.cat/app/team/).
+   The main goal of SAPFLUXNET is to advance in the scientific understanding of
+   the **ecological factors driving plant transpiration across the globe**.
 
-* The database will allow new exciting analyses at the global scale and it will be first made available to all data contributors and then to the entire scientific community.
+*  We invite the sap flow community worldwide to contribute with datasets to
+   SAPFLUXNET. Before contributing with your data, please check that they
+   fulfill the basic [[Data requirements]].
 
-* SAPFLUXNET begins as a 3-year project starting in October 2015 at CREAF and funded by the Spanish Ministry of Economy and Competitiveness MINECO (Grant Nº CGL2014-55883-JIN).
+### SAPFLUXNET objectives
 
-Data contribution
-------------
+1. To assemble a global database of sub-daily, tree-level sap flow, associated
+   plant traits and site metadata.
+2. To estimate parameter-based traits related to physiological regulation of
+   transpiration at scales from hours to entire growing seasons.
+3. To analyse the main ecological drivers of transpiration-related traits and
+   annual tree transpiration.
+4. To investigate the co-variation of water use traits with other (mostly
+   hydraulic) plant functional traits and its role in shaping the drought
+   vulnerability of woody species.
 
-* In a first stage, we would like to have an idea of the amount of data available globally, and the number of potential contributors to SAPFLUXNET.
 
-* We kindly ask that you **fill the form below** if you have measured **sap flow during at least one year/growing season**, and **let us know if you would be willing to contribute to SAPFLUXNET**.
+### SAPFLUXNET acknowledgements
 
-* The **data collection period is projected to begin in early 2016**. More details on the **data policy will be available then**. If at this stage you are unsure whether to contribute because you would like to know the precise terms of the data policy, please specify this in the form (i.e. 'Yes, conditioned on the data policy terms').
+SAPFLUXNET begins as a 3-year project starting in October 2015 at CREAF and
+funded by the Spanish Ministry of Economy and Competitiveness MINECO (Grant Nº
+CGL2014-55883-JIN).
 
-* [Link to metadata form](http://sfnform.creaf.cat/app/form/)
- 
-* Do not hesitate to contact us (Rafael Poyatos, r. poyatos@creaf.uab.es) for more information 
+## Links
+
+- **[Public SAPFLUXNET webpage](http://sapfluxnet.creaf.cat/app/team/)**
+
+## Wiki table of contents
+
++ **[[Home]]**
++ **[[Data Contribution]]**
+  - **[[Preliminary Data Survey]]**
+  - **[[Data Upload Form]]**
+  - **[[Data Policy]]**
+  - **[[Data Submission Guidelines]]**
+    - **[[Data Sheets]]**
+    - **[[Metadata Variables Dictionary]]**
+  - **[[Templates]]**
+  - **[[Examples]]**
