@@ -33,15 +33,4 @@ CGL2014-55883-JIN).
 
 - **[Public SAPFLUXNET webpage](http://sapfluxnet.creaf.cat/app/team/)**
 
-## Wiki table of contents
-
-+ **[[Home]]**
-+ **[[Data Contribution]]**
-  - **[[Preliminary Data Survey]]**
-  - **[[Data Upload Form]]**
-  - **[[Data Policy]]**
-  - **[[Data Submission Guidelines]]**
-    - **[[Data Sheets]]**
-    - **[[Metadata Variables Dictionary]]**
-  - **[[Templates]]**
-  - **[[Examples]]**
+- **[Wiki](https://github.com/sapfluxnet/sapfluxnet-public/wiki)**
